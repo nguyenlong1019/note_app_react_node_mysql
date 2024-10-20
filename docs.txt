@@ -1,0 +1,21 @@
+57:32 chi xem do mysql bi loi password 
+
+tạo blog database sau đó tạo schema các bảng 
+users
+id int auto increment 
+username varchar 45 
+email varchar 255
+password varchar 255 
+img varchar 255 
+
+posts 
+id int auto increment 
+title varchar 255 
+desc varchar 1000
+img varchar 255 
+date datetime
+uid (userid) foreign key đến user 
+
+npm i bcryptjs
+
+1:09:30 (nửa tiếng nữa xong)

@@ -40,4 +40,10 @@ Custom Hooks
 Outlet trong react router dom?????
 
 
-48:15
+48:15 
+
+npm init -y 
+npm install express mysql nodemon
+
+57:32 chi xem do mysql bi loi password 
+
